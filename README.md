@@ -1,6 +1,8 @@
 # BranchAndBound
 01 Knapsack Problem
 
+This project was from an algorithms class that I really enjoyed. 
+
 The invasion of Earth has been a success. The attack fleet from your home planet easily
 overcame the puny defences of the humans. The massive ooze-forming machines are rapidly
 converting all land areas on the planet into the kind of oily, gelatinous mud in which your
